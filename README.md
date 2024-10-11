@@ -9,3 +9,12 @@ Approach
 
 The modified geometry is then imported to RealTime LCA. Here the auto-mapping function is used to quickly map materials and create results.
 As the detail level is low at this stage, a sufficient buffer should be added to the results.
+
+
+*Grasshopper plug-ins*
+The following plugins are needed. 
+- Ladybug Tools version 1.8.0
+- EleFront version 5.1.8
+- Speckle
+  
+Make sure to download the exact same version of the plug-ins. The script might not work with other versions.
